@@ -1,6 +1,6 @@
 # Automated-PAGE-Image-Analysis
 Automated analysis of two-band PAGE gels
-* V2b contains working script for mean intensity detection
+* V4 contains working script for mean intensity detection
 Based on the following known values for the intensities:
 Lane 1: 100% Uncleaved (U)
 Lane 2: 100% Cleaved (C)
